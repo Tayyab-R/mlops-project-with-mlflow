@@ -5,10 +5,11 @@ numpy
 scikit-learn
 matplotlib
 python-box==6.0.0
-paYAML
+pyYAML
 tqdm
 ensure==1.0.2
 joblib
-types-PaYAML
+types-PyYAML
 Flask
 Flask-Cors
+-e .
